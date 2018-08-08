@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/editPass"
+        android:textColor="@color/colorAccent"
+        android:textSize="30sp"/>
+
+    <EditText
+        android:id="@+id/old_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/old_pass"/>
+
+    <EditText
+        android:id="@+id/new_pass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/new_pass"/>
+
+    <EditText
+        android:id="@+id/new_pass2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/r_password2"/>
+
+    <Button
+        android:id="@+id/btn_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/button_bg"
+        android:text="@string/submit"
+        android:textColor="@android:color/white"/>
+
+</LinearLayout>

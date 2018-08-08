@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "259774829517",
+    "firebase_url": "https://smartbutler-f25cf.firebaseio.com",
+    "project_id": "smartbutler-f25cf",
+    "storage_bucket": "smartbutler-f25cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259774829517:android:7972593b730673bb",
+        "android_client_info": {
+          "package_name": "com.KevinIndividual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259774829517-64occl7hoo2ostndnq2u1e45tr4kgch6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzQaxRNZEl_H994KzgPgFRjzBjDd8W3GQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
