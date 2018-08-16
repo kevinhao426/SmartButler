@@ -8,4 +8,5 @@
 * 5 a news fragment 
 * 6 a online picture preview fragment
 * 7 a fragment for user to edit their own file
-
+* 
+* Screen shots about this app can be found in /ScreenShot Folder
